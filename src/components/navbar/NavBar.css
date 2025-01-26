@@ -94,5 +94,9 @@
     .navbar-menu{
         display: none;
     }
+    .navbar-right{
+    gap: 15px;
+   
+}
    
     }
